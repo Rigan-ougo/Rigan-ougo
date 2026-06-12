@@ -1,5 +1,5 @@
-# Rigan Ougo 👋  
-🚀 Full‑Stack Developer | Problem Solver | Available for Work  
+# Rigan Ougo   
+ Full‑Stack Developer | Problem Solver | Available for Work  
 
 ## 🌟 About Me  
 I’m a passionate **Full‑Stack Developer** with experience building scalable applications and platforms. I specialize in both frontend and backend development, delivering solutions that are efficient, user‑friendly, and impactful.  
@@ -17,6 +17,11 @@ I’m a passionate **Full‑Stack Developer** with experience building scalable 
 ✓ ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
 ✓ ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
 ✓ ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)  
+
+## 📌 Featured Projects
+[Disaster Response Management System](https://desastersystem.onrender.com/citizen) – Disaster response 
+
+[Hospital Management System](https://medilink-public.vercel.app) – Full‑stack app for patient records and appointments.
 
 ---
 ## 📊 GitHub Stats
